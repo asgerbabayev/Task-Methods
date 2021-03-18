@@ -1,0 +1,7 @@
+D:\source\repos\Task_Methods\Task_Methods\bin\Debug\Task_Methods.exe.config
+D:\source\repos\Task_Methods\Task_Methods\bin\Debug\Task_Methods.exe
+D:\source\repos\Task_Methods\Task_Methods\bin\Debug\Task_Methods.pdb
+D:\source\repos\Task_Methods\Task_Methods\obj\Debug\Task_Methods.csprojAssemblyReference.cache
+D:\source\repos\Task_Methods\Task_Methods\obj\Debug\Task_Methods.csproj.CoreCompileInputs.cache
+D:\source\repos\Task_Methods\Task_Methods\obj\Debug\Task_Methods.exe
+D:\source\repos\Task_Methods\Task_Methods\obj\Debug\Task_Methods.pdb
